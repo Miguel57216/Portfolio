@@ -277,7 +277,7 @@ export default function Header(): JSX.Element {
           title="Share the portfolio link?"
           onClick={showCopiedToolTip}
         >
-          <p className="header__dev-name">Senior Full Stack Developer</p>
+          <p className="header__dev-name">Senior Full Stack Developer-Miguel</p>
           <div
             className={`header__dev-pop-up ${
               popUpOpen ? "header__dev-pop-up--active" : "fade-out"
