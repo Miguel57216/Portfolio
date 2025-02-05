@@ -108,7 +108,7 @@ export default function Home(): JSX.Element {
         <div className="home-page__presentation">
           <div className="home-page__description">
             <h1 className="home-page__title">
-              Hi, I want to dedicate my FULL TIME and PASSION to your SUCCESS
+              Hi, I am Miguel. I want to dedicate my FULL TIME and PASSION to your SUCCESS
               <span className="home-page__title-hand">🖐</span>
             </h1>
             <h2 className="home-page__subtitle">
