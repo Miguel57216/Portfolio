@@ -102,7 +102,7 @@ export default function MetaData({
     ? "follow"
     : "nofollow";
 
-  const pageUrl: string = `https://younes-portfolio-dev.vercel.app${pageUri}`;
+  const pageUrl: string = `https://Miguel-portfolio-dev.vercel.app${pageUri}`;
 
   /**
    * Retrieves the primary background color in hexadecimal format from the CSS variable `--bg-primary` applied to the React root element.
@@ -143,7 +143,7 @@ export default function MetaData({
       <!-- Open Graph tags -->
        */}
       <meta property="og:type" content="website" />
-      <meta property="og:site_name" content="Younes developer portfolio" />
+      <meta property="og:site_name" content="Miguel developer portfolio" />
 
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
@@ -160,7 +160,7 @@ export default function MetaData({
       {/* 
       <!-- Twitter card tags -->
       */}
-      <meta name="twitter:creator" content="Younes LAHOUITI"></meta>
+      <meta name="twitter:creator" content="Miguel LAHOUITI"></meta>
 
       <meta name="twitter:card" content="summary_large_image" />
 
@@ -172,7 +172,7 @@ export default function MetaData({
 
       <meta
         name="twitter:image:alt"
-        content="Picture of Younes, the developer behind the portfolio"
+        content="Picture of Miguel, the developer behind the portfolio"
       />
 
       {/*
